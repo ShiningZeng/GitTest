@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Mac test
 hh
+=======
+sfsfs
+>>>>>>> f5c37870eded19fc9ed73743836366765dda638d
